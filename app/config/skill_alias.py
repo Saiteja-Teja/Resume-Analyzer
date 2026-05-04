@@ -1,0 +1,15 @@
+skill_alias = {
+    "javascript": ["javascript", "js"],
+    "scikit-learn": ["scikit-learn", "scikit learn", "sklearn"],
+    "power bi": ["power bi", "powerbi", "power-bi", "power_bi"],
+    "machine learning": ["machine learning", "machine-learning", "ml","machine_learning"],
+    "deep learning": ["deep learning", "deep-learning", "dl", "deep_learning"],
+    "sql server": ["sql server", "mssql", "ms sql", "ms_sql"],
+    "aws ec2": ["aws ec2", "ec2","aws_ec2", "aws-ec2"],
+    "fastapi": ["fastapi", "fast api", "fast-api", "fast_api"],
+    "github": ["github", "git hub","git-hub", "git_hub"],
+    "html": ["html", "html5"],
+    "css": ["css", "css3"],
+    "react": ["react", "reactjs", "react.js"],
+    "node.js": ["node.js", "nodejs", "node js"],
+}
